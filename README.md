@@ -18,7 +18,7 @@ Perfect for beginners and intermediate developers who want to **learn by doing**
 
 ## 🗂️ Project Structure
 
-```bash
+```shell
 src/
 ├── tools/
 │ └── Logger.java # custom logging with colours & banners
@@ -59,20 +59,20 @@ src/
 
 1. **Navigate to the `src` folder** inside the project:
 
-```bash
+```shell
 cd src
 ```
 
 Compile all Java files:
 
-```bash
+```shell
 javac tools/Logger.java demos/\*.java app/Main.java
 
 ```
 
 Run the application:
 
-```bash
+```shell
 java app.Main
 ```
 
@@ -81,7 +81,7 @@ java app.Main
 🎮 Menu Options
 When you run the program, you'll see a coloured menu:
 
-````bash
+````shell
 ##################################################
 ####             JAVA LEARNING MENU            ####
 ##################################################
